@@ -12,3 +12,6 @@ const theBeatlesPlay = (arrayM, arrayI) => {
 }
 
 //loop 2 
+const johnLennonFacts = (facts) => {
+  while ()
+}
