@@ -8,5 +8,5 @@ const theBeatlesPlay = (arrayM, arrayI) => {
     emptyString = ("arrayM[i] plays arrayI[i].")
     varE += emptyString
   }
-  return VarE
+  return varE
 }
