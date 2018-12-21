@@ -16,8 +16,9 @@ const johnLennonFacts = (facts) => {
   let counter = 0
   while (counter < facts.length) {
     counter++
-    facts.push("!!!")
+    facts[counter]("!!!")
   }
+  return facts
 }
 
 //loop 3 
