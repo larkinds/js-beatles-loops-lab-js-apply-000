@@ -12,11 +12,11 @@ const theBeatlesPlay = (arrayM, arrayI) => {
 }
 
 //loop 2 
-const johnLennonFacts = (facts) => {
-  while (facts[length]) {
-    facts.push("!!!")
-  }
-}
+//const johnLennonFacts = (facts) => {
+  //while (facts[length]) {
+    //facts.push("!!!")
+  //}
+//}
 
 //loop 3 
 const iLoveTheBeatles = (num) => {
