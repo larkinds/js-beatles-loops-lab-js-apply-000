@@ -21,5 +21,7 @@ const johnLennonFacts = (facts) => {
 //loop 3 
 const iLoveTheBeatles = (num) => {
   var arr = []
-  do 
+  do {
+    
+  }
 }
