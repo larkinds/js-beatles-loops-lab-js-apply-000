@@ -1,6 +1,6 @@
 // add solution here
 
-
+//loop 1
 const theBeatlesPlay = (arrayM, arrayI) => {
   var empty = []
   let emptyString = ''
@@ -10,3 +10,5 @@ const theBeatlesPlay = (arrayM, arrayI) => {
   }
   return empty
 }
+
+//loop 2 
