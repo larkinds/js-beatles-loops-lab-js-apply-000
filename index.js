@@ -14,7 +14,7 @@ const theBeatlesPlay = (arrayM, arrayI) => {
 //loop 2 
 const johnLennonFacts = (facts) => {
   let counter = 0
-  facts2 = []
+  var facts2 = []
   while (counter < facts.length) {
     counter++
     facts.push(facts2 + "!!!")
