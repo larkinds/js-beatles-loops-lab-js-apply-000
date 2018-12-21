@@ -17,3 +17,9 @@ const johnLennonFacts = (facts) => {
     facts.push("!!!")
   }
 }
+
+//loop 3 
+const iLoveTheBeatles = (num) => {
+  var arr = []
+  
+}
