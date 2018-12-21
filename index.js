@@ -11,7 +11,7 @@ const theBeatlesPlay = (arrayM, arrayI) => {
   return empty
 }
 
-loop 2 
+//loop 2 
 const johnLennonFacts = (facts) => {
   let counter = 0
   while (counter < facts.length) {
