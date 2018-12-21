@@ -13,7 +13,7 @@ const theBeatlesPlay = (arrayM, arrayI) => {
 
 loop 2 
 const johnLennonFacts = (facts) => {
-  while (facts[length]) {
+  while (facts[length-1] < facts[length]) {
     facts.push("!!!")
   }
 }
