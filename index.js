@@ -19,7 +19,7 @@ const johnLennonFacts = (facts) => {
     counter++
     facts.push(facts2 + "!!!")
   }
-  return facts
+  return facts2
 }
 
 //loop 3 
